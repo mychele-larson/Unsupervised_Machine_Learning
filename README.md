@@ -14,7 +14,7 @@ Myopia Data Analysis
 
 
 
-As a Data Science Team member at a medical research company, we are interested in finding better wasy to predict Myopia (near-sightedness).  My team has tried unsuccessfully to improve out classification model when training on the whole dataset.  We believe there may be distinct groups of patients which need to be analyzed seperately.  Our supervisor has requested for my team to explore this option using unsupervised learning.
+As a member of the Data Science Team at a prestigious medical research company, we are interested in finding better ways to predict Myopia (near-sightedness).  My team has tried, unsuccessfully, to improve our classification model when training on the whole dataset.  We believe there may be distinct groups of patients which need to be analyzed separately.  Our supervisor has requested for my team to explore this option using unsupervised learning.
 
 #### *STEPS OF THE PROCESS*
 
